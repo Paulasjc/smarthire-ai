@@ -58,7 +58,7 @@ with st.sidebar:
     st.header("📋 Entrada de Datos")
 
     jd_text = st.text_area(
-        "Pega aquí la Descripción del Puesto (JD):",
+        "Pega aquí la Descripción del Puesto:",
         height=220,
     )
     uploaded_file = st.file_uploader(
