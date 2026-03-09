@@ -1,4 +1,4 @@
-fitz==0.0.1.dev2
-groq==1.1.0
-python-dotenv==1.2.2
-streamlit==1.55.0
+streamlit
+groq
+python-dotenv
+pymupdf
